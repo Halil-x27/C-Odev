@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\bin\Debug\net8.0\Odev.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\bin\Debug\net8.0\Odev.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\bin\Debug\net8.0\Odev.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\bin\Debug\net8.0\Odev.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\bin\Debug\net8.0\Odev.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\refint\Odev.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\Odev.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Odev\obj\Debug\net8.0\ref\Odev.dll
